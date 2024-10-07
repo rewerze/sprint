@@ -1,0 +1,14 @@
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\bin\Debug\net8.0\Sprint_Verseny.exe
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\bin\Debug\net8.0\Sprint_Verseny.deps.json
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\bin\Debug\net8.0\Sprint_Verseny.runtimeconfig.json
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\bin\Debug\net8.0\Sprint_Verseny.dll
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\bin\Debug\net8.0\Sprint_Verseny.pdb
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\Sprint_Verseny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\Sprint_Verseny.AssemblyInfoInputs.cache
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\Sprint_Verseny.AssemblyInfo.cs
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\Sprint_Verseny.csproj.CoreCompileInputs.cache
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\Sprint_Verseny.dll
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\refint\Sprint_Verseny.dll
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\Sprint_Verseny.pdb
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\Sprint_Verseny.genruntimeconfig.cache
+C:\Users\suhajda.zsolt\Desktop\Sprint_Verseny\obj\Debug\net8.0\ref\Sprint_Verseny.dll
